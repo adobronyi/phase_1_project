@@ -20,19 +20,19 @@ The data used was: production budget and box office results, box office results 
 
 Microsoft should look to emulate the efforts of studios that have consistently high ROIs, such as FoxS.
 
-![figure1](./figures/figure1.png)
+![fig1](./figures/fig1.png)
 
 ## Recommendation 2
 
 Concentrate on ratings and popularity as drivers of studio ROI, as FoxS was able to do.
 
-![figure2](./figures/figure2.png)
+![fig2](./figures/fig2.png)
 
 ## Recommendation 3
 
 Focus on making primarily dramas, as those account for nearly all of the high ROI films that FoxS produced.
 
-![figure3](./figures/figure3.png)
+![fig3](./figures/fig3.png)
 
 ## Future Improvements to Analysis
 
