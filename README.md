@@ -1,6 +1,8 @@
 # Introduction
 
 **Author**: Amelia Dobronyi
+**Pace**: Flex
+**Instructor**: Abhineet Kulkarni
 
 ## Overview
 
@@ -20,31 +22,34 @@ The data used was: production budget and box office results, box office results 
 
 Microsoft should look to emulate the efforts of studios that have consistently high ROIs, such as FoxS.
 
-![fig1](./figures/fig1.png)
+![fig1](./figures/fig4.png)
 
 ## Recommendation 2
 
-Concentrate on ratings and popularity as drivers of studio ROI, as FoxS was able to do.
+Microsoft should make films in the following genres: horror, mystery, thriller, sport, and romance.
 
-![fig2](./figures/fig2.png)
+![fig2](./figures/fig5.png)
 
 ## Recommendation 3
 
-Focus on making primarily dramas, as those account for nearly all of the high ROI films that FoxS produced.
+The films Microsoft produces should be between 75 to 90 minutes long, and should be released around April or July.
 
-![fig3](./figures/fig3.png)
+![fig3](./figures/fig6.png)
+
+![fig3](./figures/fig7.png)
 
 ## Future Improvements to Analysis
 
 Break down box office results into smaller segments, such as domestic vs. worldwide segments.
 
-Look at interactive effects, e.g. key persons within genres.
+Look more closely at key people to inform hiring decisions.
 
 ## Conclusion 
 
 Microsoft should look to emulate the production patterns of successful studios, such as FoxS, as determined by ROI.
 
-Though the studio may seek to vary the kinds of films it produces, at least half should be considered ‘dramas’.
+The studio should look to produce films in the following genres: horror, mystery, thriller, sport, and romance.
 
-Cumulative ROI of the studio should be monitored to evaluate going concern.
+Targeted films should be just under 90 minutes, and released in either late spring or mid-summer.
 
+## Repository structure
