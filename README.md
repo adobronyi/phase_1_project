@@ -1,8 +1,8 @@
 # Introduction
 
-**Author**: Amelia Dobronyi
-**Pace**: Flex
-**Instructor**: Abhineet Kulkarni
+**Author**: Amelia Dobronyi  
+**Pace**: Flex  
+**Instructor**: Abhineet Kulkarni  
 
 ## Overview
 
