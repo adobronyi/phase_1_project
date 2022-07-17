@@ -53,3 +53,9 @@ The studio should look to produce films in the following genres: horror, mystery
 Targeted films should be just under 90 minutes, and released in either late spring or mid-summer.
 
 ## Repository structure
+
+- technical notebooks: phase_1_project_v1, phase_1_project_v2 (final)
+- figures folder
+- data sets: bom.movie_gross.csv, im.db, rt.movies_info.tsv, rt.reviews.tsv, tmbd.movies.csv, tn.movie_budgets.csv
+- README.md
+- presentation.pdf
